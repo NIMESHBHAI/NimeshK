@@ -1,0 +1,7 @@
+#include [STUDIO.H]
+int main()
+{
+printf("hello");
+printf("pprogram");
+return0;
+}
