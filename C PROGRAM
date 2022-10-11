@@ -1,0 +1,6 @@
+#include [STUDIO.H]
+int main ()
+{
+printf("hello");
+return 0;
+}
